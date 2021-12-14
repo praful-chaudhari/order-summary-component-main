@@ -27,6 +27,7 @@ body {
 .order-description {
     width: 70%;
     margin: auto;
+    color: hsl(224, 23%, 55%);
 }
 
 .price-div {
